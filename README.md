@@ -2,7 +2,10 @@ Go visit this [article](https://support.aginity.com/hc/en-us/articles/3600377289
 
 # How to Import Queries Packages into Aginity Pro or Team
 
-1. To import download one of all of the <name>.aginitypkg files in the Github repository
+1. To import download a zip of a platforms aginitypkg files from the Github repository.  Do this by downloading the Zip file of the repository of the platform as shown below.  
+
+![File Import Image!](/images/HowtoDownload.png "Download Package")  
+  
 2. Open Aginity Pro or Team and use the File Import method as shown below
 
 ![File Import Image!](/images/importPkg.png "Import Aginity Catalog Package")
