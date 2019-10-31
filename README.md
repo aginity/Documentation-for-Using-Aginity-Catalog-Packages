@@ -1,3 +1,5 @@
+Go visit this [article](https://github.com/aginity/Documentation-for-Using-Aginity-Catalog-Packages) to find out what this is all about!
+
 # How to Import Queries Packages into Aginity Pro or Team
 
 1. To import download one of all of the <name>.aginitypkg files in the Github repository
