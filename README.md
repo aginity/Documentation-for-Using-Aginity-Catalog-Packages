@@ -6,7 +6,7 @@ Go visit this [article](https://support.aginity.com/hc/en-us/articles/3600377289
 
 ![File Import Image!](/images/HowtoDownload.png "Download Package")  
   
-2. Open Aginity Pro or Team and use the File Import method as shown below
+2. Unzip the file, open Aginity Pro or Team and use the File Import method as shown below to pick one of the catalogs to import.
 
 ![File Import Image!](/images/importPkg.png "Import Aginity Catalog Package")
 
