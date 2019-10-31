@@ -1,4 +1,4 @@
-Go visit this [article](https://github.com/aginity/Documentation-for-Using-Aginity-Catalog-Packages) to find out what this is all about!
+Go visit this [article](https://support.aginity.com/hc/en-us/articles/360037728974-Using-the-Github-Repository-and-Community-Queries-for-Aginity-Pro-and-Team) to find out what this is all about!
 
 # How to Import Queries Packages into Aginity Pro or Team
 
